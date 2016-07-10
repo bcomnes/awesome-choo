@@ -35,8 +35,7 @@
 * [TodoMVC](http://shuheikagawa.com/todomvc-choo/) - ([repo](https://github.com/shuhei/todomvc-choo))
 * [choo-firebase](https://github.com/mw222rs/choo-firebase)
 * [Grow](https://grow.static.land/) - ([repo](https://github.com/sethvincent/grow))
-* [Chat (choo/tachyons/sse)](https://choo-chat-biqtmjdyhe.now.sh) - ([code](https://choo-chat-qvhxjdljbi.now.sh/_src))
-* [Chat (choo/tachyons/socketio)](https://choo-chat-socket-io-oaxvzlpgpx.now.sh/) - ([code](https://choo-chat-socket-io-oaxvzlpgpx.now.sh/_src))
+* [Chatbot](http://chootbot.herokuapp.com/) - ([repo](https://github.com/play/chootbot))
 
 ## Community
 
@@ -53,12 +52,13 @@
 ## Articles
 
 * [A better frontend experience](https://medium.com/@yoshuawuyts/a-better-frontend-experience-7b0498c85658)
-* [Composition in CycleJS, Choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
-* [Stupidly smart components in Choo](http://blog.krawaller.se/posts/stupidly-smart-components-in-choo/)
+* [Composition in CycleJS, choo, React and Angular2](http://blog.krawaller.se/posts/composition-in-cyclejs-choo-react-and-angular2/)
+* [Stupidly smart components in choo](http://blog.krawaller.se/posts/stupidly-smart-components-in-choo/)
 
 ## Projects using choo
 
 * [boxcar](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor
-* [choo-sortable](https://github.com/willkessler/choo-sortable) - building sortable code with choo
-* [hacker-choo](https://github.com/mw222rs/hacker-choo) - hackertyper clone written in choo
+* [choo-sortable](https://github.com/willkessler/choo-sortable) - Building sortable code with choo
+* [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo
 * [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review)
+* [minidocs](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo
